@@ -2,7 +2,6 @@ package com.magioli.course.entities.pk;
 
 import java.io.Serializable;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.magioli.course.entities.Order;
 import com.magioli.course.entities.Product;
 
